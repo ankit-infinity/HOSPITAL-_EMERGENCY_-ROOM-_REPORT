@@ -1,7 +1,7 @@
 # HOSPITAL-_EMERGENCY_-ROOM-_REPORT
 
 # DASHBOARD
-C:/Users/User/Pictures/Final_dashboard_of _HER.jpg
+![alt text](https://github.com/ankit-infinity/HOSPITAL-_EMERGENCY_-ROOM-_REPORT/blob/main/Final_dashboard_of%20_HER.png)
 
 # PROJECT OVERVIEW
 This project is all about creating interactive dashboard for hospital emergency room and extract meaningful insights which will hep stakeholder and other decision maker to make proper future decisions.
