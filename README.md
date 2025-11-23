@@ -62,7 +62,12 @@ patient wait time: it nclude the waiting time of patient.
   11.INSIGHTS GENERATION
   
 # INSIGHTS
-
+ 
+from the dashboard generated above we find some interesting insights;
+ 
+1. no of patients:
+ 
+![alt text](https://github.com/ankit-infinity/HOSPITAL-_EMERGENCY_-ROOM-_REPORT/blob/main/image/patient_count.png)
    
   
  
