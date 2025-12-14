@@ -36,7 +36,7 @@ patient wait time: it nclude the waiting time of patient.
  
  number of patients:
  Count the total number of patients visiting the Emergency Room each day
- show a daily trendwith an area sparkline to spot pattern like busy days or seasonal trends.
+ show a daily trend with an area spark line to spot pattern like busy days or seasonal trends.
  
  Average Wait time :
  Find the average time patients wait to see a medical professionals.
@@ -67,9 +67,39 @@ from the dashboard generated above we find some interesting insights;
  
 1. no of patients:
  
-![alt text](https://github.com/ankit-infinity/HOSPITAL-_EMERGENCY_-ROOM-_REPORT/blob/main/image/patient_count.png)
-   
-  
+Here we see for the year 2023 the maximum attended patient in  the emergency room of the hospital is in the month of 
+jun with approx 500 patient and also in that particular month we see maximum 26 patient attended in (1st june and 22 june)
+for the year 2024 the maximum attended patient in  the emergency room of the hospital is in the month of 
+august with approx 530 patients and in  this month we see max noumber of attended patient is 28 which is in 1st of august.
+
+so here we can say that for the month of (june july august) no of patient  is more than 500 so for this particular month we have to 
+maintain adequate amount of medical facilities for proper treatment.
+ 
+2.average wait time:
+
+ The average wait time for the patient is max 35.56 in june for the year 2023
+ and for the year 2024 the average time is 36.67 for the month of february,march and january.
+ 
+ hence indicating moderate ER congestion to maintain this time we have to increase the number of medical profession for the above mention months.
+ 
+3.patient satisfactory score:
+
+patient satisfactory score standsout at 5 (approx) for both of years 2023,2024 
+which suggesting scope for service improvement.
+
+# RECOMMENDATION:
+
+1.reduce average wait time by optimising triage and staffing during peak hours.
+
+2.focus on improving patient satisfaction through faster service and better communication.
+
+3.allocate more resources to GENERAL PACTICE AND ORTHOPEDICS as they recieve the highest referrals
+
+4. implement special care pathways for 50-69 age group which has the highest ER Visits.
+
+5. monitor and minimise delayed cases with real time tracking and alerts.
+
+
  
  
  
